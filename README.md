@@ -1,2 +1,2 @@
-# bokacity
+# BOKacity
 Capacity of Knowledge
